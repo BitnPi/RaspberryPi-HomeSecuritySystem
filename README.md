@@ -3,7 +3,7 @@ Motion-Detection-OpenCV
 
 A DIY Raspberry Pi security system that utilizes a motion detection algorithm using OpenCV, and notifies the user on WhatsApp via the Twilio and Imgur api's.
 
-Created for @BitnPi
+Created for @BitnPi  https://www.youtube.com/watch?v=EYptsBXn4lY&t=5s
 
 Libraries needed:
 
